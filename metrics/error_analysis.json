@@ -1,0 +1,142 @@
+{
+  "summary": {
+    "total_test_samples": 25000,
+    "false_positives_count": 1556,
+    "false_negatives_count": 1483,
+    "false_positive_rate": 0.12448,
+    "false_negative_rate": 0.11864
+  },
+  "false_positives_top": [
+    {
+      "true_label": "negative",
+      "pred_label": "positive",
+      "probability": 0.9992555975914001,
+      "review_snippet": "This film has the language, the style and the attitude down ... plus greats rides from Occy (a world champ) and the great Jerry Lopez. John Philbin as Turtle has the surf pidgin down, and the surfing scenes are still the best ever. A true classic that can be seen many times. Nia Peeples is a babe, and Laird Hamilton shows the early stuff that has m...",
+      "full_text": "This film has the language, the style and the attitude down ... plus greats rides from Occy (a world champ) and the great Jerry Lopez. John Philbin as Turtle has the surf pidgin down, and the surfing scenes are still the best ever. A true classic that can be seen many times. Nia Peeples is a babe, and Laird Hamilton shows the early stuff that has made him the world's number one extreme surfer."
+    },
+    {
+      "true_label": "negative",
+      "pred_label": "positive",
+      "probability": 0.9989346861839294,
+      "review_snippet": "I really liked this quirky movie. The characters are not the bland beautiful people that show up in so many movies and on TV. It has a realistic edge, with a captivating story line. The main title sequence alone makes this movie fun to watch.",
+      "full_text": "I really liked this quirky movie. The characters are not the bland beautiful people that show up in so many movies and on TV. It has a realistic edge, with a captivating story line. The main title sequence alone makes this movie fun to watch."
+    },
+    {
+      "true_label": "negative",
+      "pred_label": "positive",
+      "probability": 0.9988652467727661,
+      "review_snippet": "Masterpiece. Carrot Top blows the screen away. Never has one movie captured the essence of the human spirit quite like \"Chairman of the Board.\" 10/10... don't miss this instant classic.",
+      "full_text": "Masterpiece. Carrot Top blows the screen away. Never has one movie captured the essence of the human spirit quite like \"Chairman of the Board.\" 10/10... don't miss this instant classic."
+    },
+    {
+      "true_label": "negative",
+      "pred_label": "positive",
+      "probability": 0.9987797141075134,
+      "review_snippet": "This movie was pure genius. John Waters is brilliant. It is hilarious and I am not sick of it even after seeing it about 20 times since I bought it a few months ago. The acting is great, although Ricki Lake could have been better. And Johnny Depp is magnificent. He is such a beautiful man and a very talented actor. And seeing most of Johnny's movie...",
+      "full_text": "This movie was pure genius. John Waters is brilliant. It is hilarious and I am not sick of it even after seeing it about 20 times since I bought it a few months ago. The acting is great, although Ricki Lake could have been better. And Johnny Depp is magnificent. He is such a beautiful man and a very talented actor. And seeing most of Johnny's movies, this is probably my favorite. I give it 9.5/10. Rent it today!"
+    },
+    {
+      "true_label": "negative",
+      "pred_label": "positive",
+      "probability": 0.9983938336372375,
+      "review_snippet": "This is definitely one of the best Kung fu movies in the history of Cinema. The screenplay is really well done (which is not often the case for this type of movies) and you can see that Chuck (in one of his first role)is a great actor. The final fight with the sherif deputy in the bullring is a masterpiece!",
+      "full_text": "This is definitely one of the best Kung fu movies in the history of Cinema. The screenplay is really well done (which is not often the case for this type of movies) and you can see that Chuck (in one of his first role)is a great actor. The final fight with the sherif deputy in the bullring is a masterpiece!"
+    }
+  ],
+  "false_negatives_top": [
+    {
+      "true_label": "positive",
+      "pred_label": "negative",
+      "probability": 0.0006462864694185555,
+      "review_snippet": "It's not Citizen Kane, but it does deliver. Cleavage, and lots of it.<br /><br />Badly acted and directed, poorly scripted. Who cares? I didn't watch it for the dialog.",
+      "full_text": "It's not Citizen Kane, but it does deliver. Cleavage, and lots of it.<br /><br />Badly acted and directed, poorly scripted. Who cares? I didn't watch it for the dialog."
+    },
+    {
+      "true_label": "positive",
+      "pred_label": "negative",
+      "probability": 0.0014936078805476427,
+      "review_snippet": "David Morse and Andre Braugher are very talented actors, which is why I'm trying so hard to support this program. Unfortunately, an irrational plot, and very poor writing is making it difficult for me. I'm hoping that the show gets a serious overhaul, or that the actors find new projects that are worthy of them.",
+      "full_text": "David Morse and Andre Braugher are very talented actors, which is why I'm trying so hard to support this program. Unfortunately, an irrational plot, and very poor writing is making it difficult for me. I'm hoping that the show gets a serious overhaul, or that the actors find new projects that are worthy of them."
+    },
+    {
+      "true_label": "positive",
+      "pred_label": "negative",
+      "probability": 0.0021013112273067236,
+      "review_snippet": "This was Laurel and Hardy's last silent film for Roach Studios. However, since the public had a real thirst for \"talkies\", this same short was re-made by the team just a few years later with only a few small plot changes. LAUGHING GRAVY was essentially the same plot except that Stan and Ollie were trying to hide a cute puppy from their grouchy land...",
+      "full_text": "This was Laurel and Hardy's last silent film for Roach Studios. However, since the public had a real thirst for \"talkies\", this same short was re-made by the team just a few years later with only a few small plot changes. LAUGHING GRAVY was essentially the same plot except that Stan and Ollie were trying to hide a cute puppy from their grouchy landlord--not a goat like in ANGORA LOVE. This whole goat angle is the worst part of the film. While you could understand the boys wanting to keep a cute little dog (after all, it is snowy outside), why exactly they bring a goat home is just contrived and pointless. According to the plot, the goat followed them home and so they got tired of shooing it away and kept it. Huh?! This just doesn't make any sense--if it had been a giraffe or a cow, would they have done the same thing?! Apart from being an unconvincing plot, the movie itself is pure Laurel and Hardy, with a familiar plot and familiar roles for the comedians. This film features quite a few laughs, but unfortunately isn't one of their better films to wrap up their silent careers. This aspect of their careers just seems to have ended with a whimper."
+    },
+    {
+      "true_label": "positive",
+      "pred_label": "negative",
+      "probability": 0.002883800072595477,
+      "review_snippet": "Actually I'll admit I'm a political junkie, so this resonated with me, but the erratic nature of Ms. Green (yes I know what they did to her), but the ending was such a copout and totally inconsistent with the film itself.<br /><br />Why can't Barry L and crew just left us wondering what he was going to do? Let us debate it.<br /><br />Instead they ...",
+      "full_text": "Actually I'll admit I'm a political junkie, so this resonated with me, but the erratic nature of Ms. Green (yes I know what they did to her), but the ending was such a copout and totally inconsistent with the film itself.<br /><br />Why can't Barry L and crew just left us wondering what he was going to do? Let us debate it.<br /><br />Instead they have this \"oh I'm not worthy\" bullshit ending and it just shows that when the chips were down it's better to leave the table instead of doubling down. Stop the Disney ending and putting a bow on it. Life isn't easy, they should have had the courage to give the main character some backbone.<br /><br />We had to listen to the rhetoric the entire movie... and then it turned sniveling and the stupid, inane behavior by Ms. Green (when the crap was out of her system) just made for a ridiculous near end of the movie that was icing on the cake."
+    },
+    {
+      "true_label": "positive",
+      "pred_label": "negative",
+      "probability": 0.00312973209656775,
+      "review_snippet": "Great cult flick for MST-3K types: Richard Boone is a mess -- bad hair, arthritis, even his dark glasses aren't right; about as good as a bad dino-flick can get... actually, that charging saber-toothed Styracosaurus was pretty cool -- maybe Spielberg should take a couple of notes from that one.",
+      "full_text": "Great cult flick for MST-3K types: Richard Boone is a mess -- bad hair, arthritis, even his dark glasses aren't right; about as good as a bad dino-flick can get... actually, that charging saber-toothed Styracosaurus was pretty cool -- maybe Spielberg should take a couple of notes from that one."
+    }
+  ],
+  "borderline_cases": [
+    {
+      "true_label": "positive",
+      "pred_label": "negative",
+      "probability": 0.4998622238636017,
+      "review_snippet": "Thank God for the Internet Movie Database!!! When I first got this movie I watched it every night just before before bed and was getting something different out of it every time. But no matter how I sliced it, it came up disturbing. The black and white and all the twitching really freaked me. You stare at the screen unsure of what you are looking a...",
+      "full_text": "Thank God for the Internet Movie Database!!! When I first got this movie I watched it every night just before before bed and was getting something different out of it every time. But no matter how I sliced it, it came up disturbing. The black and white and all the twitching really freaked me. You stare at the screen unsure of what you are looking at, and just when you think you got it, it becomes clear and it's something completely different. The imagery is VERY disturbing, twitching and straight razors do not sit well with me in any movie. Still everytime I watched it, I was interpreting it somewhat differently (there is no dialogue, ya know), so I decided to check the IMdB for the plot summary. Boy that throws me for a loop, I had no idea that was supposed to be God. Now I'm going to watch it with this in mind and see what happens...."
+    },
+    {
+      "true_label": "positive",
+      "pred_label": "positive",
+      "probability": 0.5001854300498962,
+      "review_snippet": "Cummings is falsely accused of sabotage and goes on the lam, looking for the real culprit. The familiar Hitchcock theme of a man wrongly accused of a crime is nicely played out in this entertaining fare that has elements of \"The Thirty Nine Steps\" and \"North by Northwest,\" although it is not as good as either of those classics. There are some impre...",
+      "full_text": "Cummings is falsely accused of sabotage and goes on the lam, looking for the real culprit. The familiar Hitchcock theme of a man wrongly accused of a crime is nicely played out in this entertaining fare that has elements of \"The Thirty Nine Steps\" and \"North by Northwest,\" although it is not as good as either of those classics. There are some impressive set pieces, including the finale on the Statue of Liberty. The plot is implausible and unconvincing and, after a terrific start, it seems to run out of steam. Cummings is likable if somewhat stiff in the lead. Lane is the blonde but not the cool variety of the director's later films. The supporting roles are generally well played."
+    },
+    {
+      "true_label": "negative",
+      "pred_label": "negative",
+      "probability": 0.4998026192188263,
+      "review_snippet": "Decent but overrated dramatic thriller, film attempts to depict the spiraling out-of-control inner demons of a tormented artist. The problem is, not a single relationship illustrated on screen is believable, and plausibility appears to have been thrown out the window. The title character is so difficult to relate to making it's rather impossible to...",
+      "full_text": "Decent but overrated dramatic thriller, film attempts to depict the spiraling out-of-control inner demons of a tormented artist. The problem is, not a single relationship illustrated on screen is believable, and plausibility appears to have been thrown out the window. The title character is so difficult to relate to making it's rather impossible to imagine any of the on- screen characters emotionally invested in him either. The conclusion is also fairly predictable; there are certainly enough clues provided from the get go to indicate exactly where the story is headed. Choosing to entirely suspend one's belief in the situations or the relationships, the film itself is well acted (especially by the leads) and manages to create some nice tension as the story unfolds. As a metaphorical feature there is some food for thought, and had the script been stronger, there's certainly potential here that could have been put to better use."
+    },
+    {
+      "true_label": "negative",
+      "pred_label": "negative",
+      "probability": 0.4998009502887726,
+      "review_snippet": "One of Bolls better attempts. Just shows that if you do something long enough you have to improve just by chance. It is still not good but it is at least watchable which is an improvement over the bloodrayne. The main difference between Bloodrayne and FarCry really is that the story from Farcry wasn't the games strong point whereas Bloodrayne had a...",
+      "full_text": "One of Bolls better attempts. Just shows that if you do something long enough you have to improve just by chance. It is still not good but it is at least watchable which is an improvement over the bloodrayne. The main difference between Bloodrayne and FarCry really is that the story from Farcry wasn't the games strong point whereas Bloodrayne had a strong story and thus Boll had more chance to mess it up.<br /><br />The action in this movie is actually fairly good. Occasionally a touch overdone but in a good way and worth a watch just for that.<br /><br />Acting wise it was pretty decent. Most of the actors are pretty good but you can tell they aren't taking it seriously based on comparisons with other performances. But the lighter mood this gives to the film actually helps.<br /><br />While I think sticking a little bit closer to the story of the game might have made for a slightly better film the changes made are pretty practical and not big enough to make a difference. Especially given the plot of the game was hardly Oscar winning just a vehicle for FPS carnage. Would have liked it set in the Jungle as that was a pretty integral part of the game but Canada doesn't have a great deal of Jungle and it is at least set in a kind of rainforest.<br /><br />Why Boll feels the need to change already professionally scripted and directed game plots I don't know but he does. And until he starts letting the source material speak through his adaptations will always be lacking. Watch the film for a laugh its good for that and maybe for watching during a party as drinking party fodder."
+    },
+    {
+      "true_label": "positive",
+      "pred_label": "positive",
+      "probability": 0.5002386569976807,
+      "review_snippet": "After reading a biography on the last Russian Tzar (Nicholas II), and his failure to secure the army's support, I decided to give this film a try.<br /><br />I watched it with a completely open mind, not knowing anything about it (except its reputation).<br /><br />These are the things that impressed me the most.<br /><br />1) The shots of battlesh...",
+      "full_text": "After reading a biography on the last Russian Tzar (Nicholas II), and his failure to secure the army's support, I decided to give this film a try.<br /><br />I watched it with a completely open mind, not knowing anything about it (except its reputation).<br /><br />These are the things that impressed me the most.<br /><br />1) The shots of battleships, and the soldiers used as extras. More than once I stopped to think \"if this was done in this time and place, 80% of this would have been computer-generated\".<br /><br />2) The Realism in it. From the maggot-infested meat to the shot of the sailor with his candle and the legend \"Killed for a bowl of soup\", this movie makes no concessions to the PC cause (which, thankfully, hadn't been invented yet).<br /><br />3) The slow descent into madness of the Odessa Steps sequence. From the first shot, when the limbless man appears, you get the idea something might be wrong; since the overall shots are composed, though, you end up feeling comfortable in your surroundings. Then an amputee appears, and people start falling in dramatic poses. Still, the shots are composed... until the Cossacks appear into scene, and the incredible shot juxtapositions appear. This scene is easily worth the price of admission.<br /><br />4) The fact that this movie is 100% unadulterated propaganda. Then again, when Rambo fought in Afghanistan he also was having something to do with \"propaganda\"; only a different kind.<br /><br />Overall: a film marred by a bit of a slow narrative. Nevertheless, Metropolis, The Cabinet of Dr. Caligari and this movie are perfect examples of inventive, edgy movies that are still remembered for their merits today. They really make modern movies look boring and repetitive."
+    }
+  ],
+  "linguistic_patterns": [
+    {
+      "category": "Sarcasm and Ironic Praise",
+      "description": "Negative reviews that use overwhelmingly positive vocabulary in an ironic or mocking tone (e.g., 'masterpiece of utter stupidity', 'pure genius if your goal is to bore audiences to death'). Since the model detects positive tokens without capturing deep pragmatic irony, it predicts positive.",
+      "prevalence": "Common in False Positives"
+    },
+    {
+      "category": "Mixed Opinions / Two-Part Reviews",
+      "description": "Reviews that dedicate 80% of their text to praising exceptional acting, cinematography, or soundtrack, but conclude in the final sentence that the movie ultimately fails due to a disjointed script. The pooling layer captures dense positive clusters and is swayed by the volume of praise.",
+      "prevalence": "Common in False Positives"
+    },
+    {
+      "category": "Complex Negation and Inversion",
+      "description": "Reviews with multi-clause negative structures (e.g., 'I would not say this movie is without charm, but neither can I claim it didn't leave me feeling bored'). Nuanced double-negations occasionally fail to flip sequential representation correctly.",
+      "prevalence": "Found across both False Positives and False Negatives"
+    },
+    {
+      "category": "Dark / Gruesome Genre Vocabulary",
+      "description": "Positive horror, thriller, or tragic drama reviews featuring heavy negative sentiment words (e.g., 'horrific', 'gruesome', 'terrifying disaster', 'depressing'). For these genres, these words denote artistic success, yet the model associates them with negative polarity.",
+      "prevalence": "Common in False Negatives"
+    }
+  ]
+}
